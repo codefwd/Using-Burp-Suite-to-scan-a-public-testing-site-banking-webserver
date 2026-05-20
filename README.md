@@ -39,7 +39,7 @@ To include in my scope you select Add:
 
 <img width="1062" height="676" alt="7" src="https://github.com/user-attachments/assets/0e9cc27a-4a10-42f9-9f04-6623a86eef8e" />
 
- I'm going to put a banking website which is the public testing server site I used in a previous example.
+ I'm going to place a banking website to test which is the public testing server site I used in a previous example.
 
 <img width="832" height="366" alt="8" src="https://github.com/user-attachments/assets/e6c24b06-3de6-431a-8201-dd2ca429d954" />
 
