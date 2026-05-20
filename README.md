@@ -1,3 +1,5 @@
+
+
 # Using Burp Suite to scan a public testing banking site webserver
 Showing a temporary project with the free edition of Burp suite to scan a testing banksite
 
@@ -73,7 +75,6 @@ In the above picture, You can see to the left, the bank site tab. The image belo
 
 In the right hand panel you can see
 The messages that have come in and gone out from the web site.
-Below, you can see the browser request and server response details
-
+Below, you can see the browser request and server response details.
 
 
