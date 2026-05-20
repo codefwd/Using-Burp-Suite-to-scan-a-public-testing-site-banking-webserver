@@ -9,7 +9,11 @@ I selected Burp Suite from the Kali application launcher/search bar
 
 This is where it shows you the free edition only allows temporary projects. The license version allows you to save projects
 
-Select next We'll go to the Target tab.  The target tab has three sub tabs **-Site map- -scope- -issues-** 
+<img width="794" height="571" alt="2" src="https://github.com/user-attachments/assets/cda7a2c3-3314-4a3a-b378-7e9d820b95e4" />
+
+Select next
+
+We'll go to the Target tab.  The target tab has three sub tabs **-Site map- -scope- -issues-** 
 
 <img width="545" height="229" alt="5" src="https://github.com/user-attachments/assets/fee3c0e9-2629-460a-9317-4baa03e1437e" />
 
@@ -19,7 +23,7 @@ The site map tab is empty at the moment, but it shows the construction of the we
 
 <img width="1595" height="739" alt="6" src="https://github.com/user-attachments/assets/3d60aeae-cd3b-4f89-a729-add03461f50a" />
 
-In the scope tab, this sets up the targets for testing.
+In the scope tab shown below, this sets up the targets for testing.
 
 To include in your scope you select Add:
 
@@ -41,7 +45,7 @@ now go to the proxy tab
 Shown above in the proxy tab, interception is off. That's where I want to be to let traffic flow through.<br/><br/><br/>
 
 while in the proxy tab, go into proxy settings which shows listeners on port 8080 
-<img width="630" height="187" alt="50" src="https://github.com/user-attachments/assets/1c632450-e249-4f33-888e-887b8d4ca7c2" />
+<img width="630" height="187" alt="50" src="https://github.com/user-attachments/assets/09f0df64-5fb2-4aa0-9a9b-19e37141f060" />
 
 <img width="1174" height="706" alt="12" src="https://github.com/user-attachments/assets/9b56665e-d8f4-4cb8-89aa-f9ec1271609e" />
 
