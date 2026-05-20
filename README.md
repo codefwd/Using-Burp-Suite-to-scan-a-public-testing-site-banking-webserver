@@ -3,7 +3,7 @@ Showing a temporary project with the free edition of Burp suite to scan a testin
 
 ## Overview: Using Burp suite free edition to test a bank website. The free edition only allows temporary projects. Only the license version allows you to save projects.
 
-I selected Burp Suite in the Kali application launcher/search bar
+I selected Burp Suite from the Kali application launcher/search bar
 
 <img width="571" height="301" alt="1" src="https://github.com/user-attachments/assets/737f3d4d-197b-4041-9d54-5abcd570305e" />
 
@@ -28,14 +28,14 @@ We'll go to the Target tab.  The target tab has three sub tabs **-Site map- -sco
 <img width="545" height="229" alt="5" src="https://github.com/user-attachments/assets/fee3c0e9-2629-460a-9317-4baa03e1437e" />
 
 
-The site map tab is empty at the moment, but it shows the construction of the website.
+The site map tab is empty at the moment, but it shows the construction of the website your testing.
 
 
 <img width="1595" height="739" alt="6" src="https://github.com/user-attachments/assets/3d60aeae-cd3b-4f89-a729-add03461f50a" />
 
 In the scope tab, this sets up the targets for testing.
 
-To include in my scope you select Add:
+To include in your scope you select Add:
 
 <img width="1062" height="676" alt="7" src="https://github.com/user-attachments/assets/0e9cc27a-4a10-42f9-9f04-6623a86eef8e" />
 
