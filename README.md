@@ -81,3 +81,4 @@ When I click the POST in the method column for the signin.html, I can see the us
 
 <img width="639" height="314" alt="19" src="https://github.com/user-attachments/assets/e24de2ed-30ad-4301-a6a4-c863f0d2fb95" />
 
+## In conclusion, Burp Suite demonstrated how web traffic can be captured and analyzed during a security testing session. In this exercise, Burp Suite was used to identify sensitive data transmitted through a website.
