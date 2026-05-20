@@ -9,21 +9,7 @@ I selected Burp Suite from the Kali application launcher/search bar
 
 This is where it shows you the free edition only allows temporary projects. The license version allows you to save projects
 
-Select next 
-
-<img width="794" height="571" alt="2" src="https://github.com/user-attachments/assets/4df23646-b805-4aac-90c4-c1ca14c9c761" />
-
-select start burp
-
-<img width="765" height="559" alt="3" src="https://github.com/user-attachments/assets/05493fc3-565c-45a6-ae54-49a2db071893" /><br/>
-
-
-
-Burp suite creates a new project and then shows you the main screen<br/>
-
-<img width="1594" height="737" alt="4" src="https://github.com/user-attachments/assets/aeb127a8-80f7-43df-98d3-b325fed34733" />
-
-We'll go to the Target tab.  The target tab has three sub tabs **-Site map- -scope- -issues-** 
+Select next We'll go to the Target tab.  The target tab has three sub tabs **-Site map- -scope- -issues-** 
 
 <img width="545" height="229" alt="5" src="https://github.com/user-attachments/assets/fee3c0e9-2629-460a-9317-4baa03e1437e" />
 
@@ -78,5 +64,15 @@ Now that we got to see our balance and investment accounts shown above, let's go
 
 Back at burp suite, we can see on the Target and site map tab, the bank website has been captured.
 
-<img width="1596" height="733" alt="16" src="https://github.com/user-attachments/assets/202ebdab-4ee8-4bcd-ad97-c8dba4645a46" />
+<img width="1596" height="733" alt="16" src="https://github.com/user-attachments/assets/93c5a587-92a1-4faa-a91a-bfbc8c99c3eb" />
+
+In the above picture, You can see to the left, the bank site tab. The image below shows a closer detail look: You can see the structure of the website that was loaded.
+
+<img width="271" height="386" alt="17" src="https://github.com/user-attachments/assets/b080d6b1-6473-4447-9591-66d21eb04e53" />
+
+
+
+
+
+
 
