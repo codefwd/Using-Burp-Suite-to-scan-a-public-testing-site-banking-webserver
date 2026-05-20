@@ -68,14 +68,12 @@ Back at burp suite, we can see on the Target and site map tab, the bank website 
 
 In the above picture, You can see to the left, the bank site tab. The image below shows a closer detail look: You can see the structure of the website that was loaded.
 
-<img width="271" height="386" alt="17" src="https://github.com/user-attachments/assets/b080d6b1-6473-4447-9591-66d21eb04e53" />
+<img width="271" height="386" alt="17" src="https://github.com/user-attachments/assets/b080d6b1-6473-4447-9591-66d21eb04e53" /><br/><br/>
 
 
-
-
-
-
-
+In the right hand panel you can see
+The messages and have come in and gone out from the web site.
+Below that you can see the browser request and server responses details
 
 
 
