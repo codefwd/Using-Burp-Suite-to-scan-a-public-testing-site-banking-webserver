@@ -12,3 +12,15 @@ This is where it shows you the free edition only allows temporary projects. The 
 Select next 
 
 <img width="794" height="571" alt="2" src="https://github.com/user-attachments/assets/4df23646-b805-4aac-90c4-c1ca14c9c761" />
+
+select start burp
+
+<img width="765" height="559" alt="3" src="https://github.com/user-attachments/assets/05493fc3-565c-45a6-ae54-49a2db071893" /><br/>
+
+
+
+Burp suite creates a new project and then shows you the main screen<br/>
+
+<img width="1594" height="737" alt="4" src="https://github.com/user-attachments/assets/aeb127a8-80f7-43df-98d3-b325fed34733" />
+
+We'll go to the Target tab. The target tab has three sub tabs **-Site map- -scope- -issues-** 
