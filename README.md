@@ -72,8 +72,8 @@ In the above picture, You can see to the left, the bank site tab. The image belo
 
 
 In the right hand panel you can see
-The messages and have come in and gone out from the web site.
-Below that you can see the browser request and server responses details
+The messages that have come in and gone out from the web site.
+Below, you can see the browser request and server response details
 
 
 
