@@ -52,5 +52,11 @@ after clicking ok, select yes on the proxy pop up.
 now go to the proxy tab
 
 <img width="1592" height="739" alt="11" src="https://github.com/user-attachments/assets/7a87a67f-e45c-4e8c-bd4d-8cd820b3cb0c" />
-Shown above in the proxy tab, interception is off. That's where I want to be to let traffic flow through.
+Shown above in the proxy tab, interception is off. That's where I want to be to let traffic flow through.<br/><br/><br/>
+
+while in the proxy tab, go into proxy settings which shows listeners on port 8080 
+<img width="630" height="187" alt="50" src="https://github.com/user-attachments/assets/1c632450-e249-4f33-888e-887b8d4ca7c2" />
+
+<img width="1174" height="706" alt="12" src="https://github.com/user-attachments/assets/9b56665e-d8f4-4cb8-89aa-f9ec1271609e" />
+
 
