@@ -75,10 +75,9 @@ In the image below, the panel shows messages that have come in and gone out from
 
 <img width="1327" height="587" alt="54" src="https://github.com/user-attachments/assets/6c117fbe-8dd4-4d78-9b8d-94d8e9115edc" /><br/><br/><br/>
 
-When I click sign in post message I can see my user ID and password in the message 
+When I click the POST in the method column for the signin.html, I can see the user ID and password in the message.
 
 <img width="857" height="377" alt="18" src="https://github.com/user-attachments/assets/4796519b-9f4c-48c6-8e54-35eb4b059587" />
 
 <img width="639" height="314" alt="19" src="https://github.com/user-attachments/assets/e24de2ed-30ad-4301-a6a4-c863f0d2fb95" />
 
-When I click the POST in the method column for the signin.html, I can see the user ID and password in the message.
