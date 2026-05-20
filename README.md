@@ -59,4 +59,16 @@ while in the proxy tab, go into proxy settings which shows listeners on port 808
 
 <img width="1174" height="706" alt="12" src="https://github.com/user-attachments/assets/9b56665e-d8f4-4cb8-89aa-f9ec1271609e" />
 
+To start web scanning, we first need to go to our web browser to network settings and make sure that we're on manual proxy configuration<br/><br/>
+
+<img width="1582" height="735" alt="51" src="https://github.com/user-attachments/assets/f8ac80ba-3acf-476e-b84b-7b3df440f0df" />
+<img width="1082" height="681" alt="52" src="https://github.com/user-attachments/assets/b70e3842-de18-46ad-bc48-8cbd6f707ba6" />
+<img width="759" height="583" alt="53" src="https://github.com/user-attachments/assets/978ac2d5-9c79-4240-ad5e-86e32c5a1da7" />
+
+ It should read:
+ HTTP proxy is 127.0.0.1 and port 8080 
+
+Now that we finished that, we can go to the bank site - the public testing site. We will login with the credentials: username and password. 
+
+
 
