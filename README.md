@@ -70,5 +70,11 @@ To start web scanning, we first need to go to our web browser to network setting
 
 Now that we finished that, we can go to the bank site - the public testing site. We will login with the credentials: username and password. 
 
+<img width="1224" height="609" alt="13" src="https://github.com/user-attachments/assets/69c19cf9-929c-482c-864c-6f643f54c8e8" />
+<img width="710" height="415" alt="14" src="https://github.com/user-attachments/assets/26f366bb-95b2-4afa-ac56-58495c5a856e" />
+<img width="1195" height="595" alt="15" src="https://github.com/user-attachments/assets/5cef9aae-13a6-4644-8fab-d2e9c7f914be" />
+Now that we got to see our balance and investment accounts, let's go back to burp and see what it captured 
+
+
 
 
