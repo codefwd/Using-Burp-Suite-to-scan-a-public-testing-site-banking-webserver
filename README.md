@@ -45,7 +45,12 @@ To include in your scope you select Add:
 
 <img width="543" height="80" alt="9" src="https://github.com/user-attachments/assets/c9119d84-a771-4514-97f3-6152860229c6" />
 
+after clicking ok, select yes on the proxy pop up.
 
+<img width="499" height="235" alt="10" src="https://github.com/user-attachments/assets/422bc1d8-bf20-4e70-b47f-673079a34131" />
 
+now go to the proxy tab
 
+<img width="1592" height="739" alt="11" src="https://github.com/user-attachments/assets/7a87a67f-e45c-4e8c-bd4d-8cd820b3cb0c" />
+Shown above in the proxy tab, interception is off. That's where I want to be to let traffic flow through.
 
