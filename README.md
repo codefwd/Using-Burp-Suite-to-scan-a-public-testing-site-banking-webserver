@@ -23,4 +23,29 @@ Burp suite creates a new project and then shows you the main screen<br/>
 
 <img width="1594" height="737" alt="4" src="https://github.com/user-attachments/assets/aeb127a8-80f7-43df-98d3-b325fed34733" />
 
-We'll go to the Target tab. The target tab has three sub tabs **-Site map- -scope- -issues-** 
+We'll go to the Target tab.  The target tab has three sub tabs **-Site map- -scope- -issues-** 
+
+<img width="545" height="229" alt="5" src="https://github.com/user-attachments/assets/fee3c0e9-2629-460a-9317-4baa03e1437e" />
+
+
+The site map tab is empty at the moment, but it shows the construction of the website.
+
+
+<img width="1595" height="739" alt="6" src="https://github.com/user-attachments/assets/3d60aeae-cd3b-4f89-a729-add03461f50a" />
+
+In the scope tab, this sets up the targets for testing.
+
+To include in my scope you select Add:
+
+<img width="1062" height="676" alt="7" src="https://github.com/user-attachments/assets/0e9cc27a-4a10-42f9-9f04-6623a86eef8e" />
+
+ I'm going to put a banking website which is the public testing server site I used in a previous example.
+
+<img width="832" height="366" alt="8" src="https://github.com/user-attachments/assets/e6c24b06-3de6-431a-8201-dd2ca429d954" />
+
+<img width="543" height="80" alt="9" src="https://github.com/user-attachments/assets/c9119d84-a771-4514-97f3-6152860229c6" />
+
+
+
+
+
